@@ -4,4 +4,4 @@
 
 <h1 align="center">DiptaOS</h1>
 # DiptaOS
-An Indonesian-nuanced Linux OS concept, reimagined with Material You design.
+Simple. Floating. Material. A refined desktop experience built on Ubuntu.
