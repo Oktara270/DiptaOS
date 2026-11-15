@@ -10,7 +10,7 @@
     <a href="https://sourceforge.net">
       <img src="https://shields.io" alt="Download DiptaOS">
     </a>
-    <a href="https://github.com">
+    <a href="https://sourceforge.net/projects/diptaos/">
       <img src="https://shields.io" alt="Latest Release">
     </a>
     <img src="https://shields.io" alt="Ubuntu Base">
