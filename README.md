@@ -8,12 +8,15 @@
 
   <p>
     <a href="https://sourceforge.net/projects/diptaos">
-      <img src="https://img.shields.io/badge/Download-DiptaOS-blue" alt="Download DiptaOS">
+      <img src="https://img.shields.io/badge/Download-DiptaOS-blue?style=flat-square" alt="Download DiptaOS">
    </a>
     <a href="https://github.com/Oktara270/DiptaOS/releases/tag/v1.0-beta1">
-      <img src="https://img.shields.io/badge/Latest-Release-green?logo=github" alt="Latest Release">
+      <img src="https://img.shields.io/badge/Latest Release-v1.0_beta_1-blue?style=flat-square" alt="Latest Release">
     </a>
-    <img src="https://img.shields.io/badge/Ubuntu-Base-orange" alt="Ubuntu Base">
+    <a href="https://github.com/Oktara270/DiptaOS/blob/main/LICENSE">
+      <img src="https://img.shields.io/badge/License-GPLv3-brightgreen?style=flat-square" alt="license">
+    </a>
+    <img src="https://img.shields.io/badge/Ubuntu-Base-orange?style=flat-square" alt="Ubuntu Base">
   </p>
 </div>
 
