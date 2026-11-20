@@ -7,13 +7,13 @@
   <p><strong>A lightweight, Material You-inspired Linux distribution with a floating desktop experience built on Ubuntu.</strong></p>
 
   <p>
-    <a href="https://sourceforge.net">
-      <img src="https://shields.io" alt="Download DiptaOS">
+    <a href="https://sourceforge.net/projects/diptaos">
+      <img src="https://img.shields.io/badge/Download-DiptaOS-blue" alt="Download DiptaOS">
+   </a>
+    <a href="https://github.com/Oktara270/DiptaOS/releases/tag/v1.0-beta1">
+      <img src="https://img.shields.io/badge/Latest-Release-green?logo=github" alt="Latest Release">
     </a>
-    <a href="https://sourceforge.net/projects/diptaos/">
-      <img src="https://shields.io" alt="Latest Release">
-    </a>
-    <img src="https://shields.io" alt="Ubuntu Base">
+    <img src="https://img.shields.io/badge/Ubuntu-Base-orange" alt="Ubuntu Base">
   </p>
 </div>
 
